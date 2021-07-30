@@ -602,7 +602,7 @@ svg {
   TYPOGRAPHY
   ------------------------------------------------------------*/
 
-  .ui-text-intro { font-size: var(--ui-typography-h4); }
+  .ui-text-intro { font-size: var(--ui-typography-h4); color: #1a1a1a;}
 
   /*------------------------------------------------------------
   LAYOUT
